@@ -1,4 +1,4 @@
-
+import graphlab as gl
 
 topic_model = gl.load_model('lda_assignment_topic_model')
 tpm_low_gamma = gl.load_model('lda_low_gamma')
